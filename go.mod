@@ -1,4 +1,4 @@
-module github.com/yourusername/mira-go
+module github.com/cdpath/mira-go
 
 go 1.21
 

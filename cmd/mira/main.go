@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
+	"github.com/cdpath/mira-go/internal/mira"
 	"github.com/spf13/cobra"
-	"github.com/yourusername/mira-go/internal/mira"
 )
 
 var debug bool
